@@ -1,6 +1,5 @@
 # **AI-Powered Employability Evaluator** 🎯
 
-## **Description** 📝
 The **AI-Powered Employability Evaluator** is a Gradio web application that uses machine learning to predict whether a student is employable based on their skill ratings. It utilizes a Perceptron model trained on a dataset of student employability factors. By entering personal information and rating various skills, users can instantly get an evaluation of their employability status.
 
 ## **Features** ✨
